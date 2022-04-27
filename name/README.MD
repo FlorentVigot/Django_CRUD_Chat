@@ -9,7 +9,9 @@
 ## Projet CRUD
 
 Pour lancer ce projet, dirigez-vous vers le dossier name et lancez la commande :
+<br>
 `python manage.py `
+<br>
 le serveur se lance.
 <br> 
 le dossier se nomme "namep"
