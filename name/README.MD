@@ -11,3 +11,5 @@
 Pour lancer ce projet, dirigez-vous vers le dossier name et lancez la commande :
 `python manage.py `
 le serveur se lance.
+<br> 
+le dossier se nomme "namep"
