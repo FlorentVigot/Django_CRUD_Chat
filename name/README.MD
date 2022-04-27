@@ -1,6 +1,6 @@
 # Projet CRUD et Chat
 
-2 projets en Django, framework de Python 
+:tada: 2 projets en Django, framework de Python :tada:
 
 ## Versions
 - Python 3.10.1
